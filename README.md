@@ -15,6 +15,7 @@
 * Gosto de estudar sobre outros paises, principalmente sobre a economia e desenvolvimento.
 * Sempre que posso jogo alguns jogos online com amigos, como "Minecraft" ou "Roblox"
 * Aprecio muito Animes do tipo Isekai, e desenhos antigos.
+
   ![](https://tenor.com/pt-BR/view/overlord-skeleton-gif-13471926)
 
 

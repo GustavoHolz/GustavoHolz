@@ -1,8 +1,8 @@
-## Hi there 👋
+## Olá pessoal 👋
 
 * Boas vindas ao meu perfil 💙💙
 *  Meu Nome é Gustavo Holz
-# Título <h1>
+# Estudo <h1>
 *  Estou estudando na Alura 📘
 *  Estou me desenvolvendo na linguagem JavaScript 💻
 *  Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 🙂

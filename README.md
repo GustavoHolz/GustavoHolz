@@ -7,7 +7,7 @@
 *  Estou estudando na [Alura](https://www.alura.com.br)
 *  Estou me desenvolvendo na linguagem JavaScript 💻
 *  Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 🙂
-*  No momento busco ao maximo desenvolver meu aprendizado, busco principalmete meu desenvolvimento na área de exatas,principalmente em **pensammento computacional** 💻
+*  No momento busco ao maximo desenvolver meu aprendizado, busco principalmete meu desenvolvimento na área de exatas,principalmente em **pensamento computacional** 💻
 *  Busco sempre ajudar meus colegas em sala e busco sempre ser útil de alguma forma para o desenvolvimento da turma 🏛️
 *  Faço curso de robótica e inglês 📖
 *  Futuro Intercambista ✈️
